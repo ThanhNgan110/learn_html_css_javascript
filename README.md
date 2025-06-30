@@ -1,1 +1,1 @@
-# leetcode
+# This is repo about javascript
